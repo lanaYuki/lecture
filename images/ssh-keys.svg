@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="100%" height="100%" fill="#ffffff" stroke="#ddd"/>
+  <g transform="translate(40,40)">
+    <rect width="1120" height="520" rx="8" fill="#f8f9fb" stroke="#e1e4e8"/>
+    <text x="30" y="50" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#24292f">SSH keys — 占位截图</text>
+    <text x="30" y="90" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#444">这是一个占位图像。请把你在附件中的真实截图放到仓库的 <tspan font-weight="bold">images/ssh-keys.png</tspan> 或 <tspan font-weight="bold">images/ssh-keys.jpg</tspan>，并在需要时替换此文件。</text>
+    <rect x="30" y="110" width="420" height="120" rx="6" fill="#fff" stroke="#dfe2e5"/>
+    <text x="50" y="150" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0366d6">firstkey</text>
+    <text x="50" y="174" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#666">SHA256:YsX4QJcwYZjTj64f0e0GCFGDoF/uLfIP2IjCf6h/U3o</text>
+    <rect x="30" y="250" width="720" height="220" rx="6" fill="#fff" stroke="#dfe2e5"/>
+    <text x="50" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0366d6">lenovo-0312</text>
+    <text x="50" y="314" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#666">SHA256:oCXI9zKaypII5naRrttqNKirt4J0tG9Ip/MULxIdQ1k</text>
+  </g>
+</svg>
